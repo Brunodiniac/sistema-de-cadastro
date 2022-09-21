@@ -4,5 +4,6 @@
 
 Para rodar esse projeto na sua maquinha, por favor digite: 
 ```
-npm app.js          
+npm app.js        
 ```
+:o
